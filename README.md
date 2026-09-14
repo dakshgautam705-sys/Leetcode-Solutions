@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
