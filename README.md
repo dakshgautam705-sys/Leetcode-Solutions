@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
