@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
