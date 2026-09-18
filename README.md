@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
 | ------- |
