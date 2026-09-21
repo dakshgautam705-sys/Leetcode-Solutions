@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0867-transpose-matrix](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
