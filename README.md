@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0908-smallest-range-i](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
