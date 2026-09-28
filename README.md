@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0908-smallest-range-i](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
