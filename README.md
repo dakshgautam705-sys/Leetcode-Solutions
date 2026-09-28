@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
@@ -102,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
