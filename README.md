@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 ## Queue
 |  |
@@ -126,12 +127,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dakshgautam705-sys/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
